@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Tool/check.png</file>
+        <file>Tool/login_button.png</file>
+        <file>Tool/login_buttonhover.png</file>
+        <file>Tool/login_cancel.png</file>
+        <file>Tool/login_closeoff.png</file>
+        <file>Tool/login_down.png</file>
+        <file>Tool/login_downhover.png</file>
+        <file>Tool/login_dropdown.png</file>
+        <file>Tool/login_ok.png</file>
+        <file>Tool/login_up.png</file>
+        <file>Tool/login_uphover.png</file>
+        <file>Tool/msgReset.png</file>
+        <file>Tool/msgReset_hover.png</file>
+        <file>Tool/radiobutton.png</file>
+        <file>Tool/radiobutton_check.png</file>
+        <file>Tool/spinbox_add.png</file>
+        <file>Tool/spinbox_add_hover.png</file>
+        <file>Tool/spinbox_sub.png</file>
+        <file>Tool/spinbox_sub_hover.png</file>
+        <file>Tool/uncheck.png</file>
+        <file>Tool/dock_down.svg</file>
+        <file>Tool/dock_down_hover.svg</file>
+        <file>Tool/down_arrow.svg</file>
+        <file>Tool/down_arrowon.svg</file>
+        <file>Tool/login_closeon.png</file>
+    </qresource>
+</RCC>

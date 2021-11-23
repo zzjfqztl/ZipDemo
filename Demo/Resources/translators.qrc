@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Translator/RY3D_ASTN_CN.qm</file>
+    </qresource>
+</RCC>

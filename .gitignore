@@ -1,0 +1,11 @@
+Build
+*.dmp
+log.txt
+/deploy.cmake
+/Deploy
+/ApplicationData/Translator/*.qm
+/doxygen
+/.vscode
+/.idea
+.scannerwork
+sonar-project.properties

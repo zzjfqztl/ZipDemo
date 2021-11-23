@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/css">
+        <file>ry_systle.css</file>
+    </qresource>
+</RCC>
