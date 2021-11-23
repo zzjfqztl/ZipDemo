@@ -70,7 +70,7 @@ bool ZipOperationThread::compressFiles(QString fileCompressed, QStringList files
 bool ZipOperationThread::compressDir(QString fileCompressed, QString dir, bool bEncrypt)
 {
 	emit infoTextChangedSgn(QStringLiteral("Compressing Directory: %1 ").arg(dir));
-	bool b = ZipOperator::compressDir(fileCompressed, dir, bEncrypt);
+	bool b = ZipOperator::compressDir(fileCompressed, dir, true,bEncrypt);
 	emit infoTextChangedSgn(QStringLiteral("Compressing Directory: %1 ").arg(b ? "success" : "failed"));
 	return b;
 }
